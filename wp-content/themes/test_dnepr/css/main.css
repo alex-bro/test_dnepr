@@ -1,0 +1,303 @@
+body {
+	color:#fff;
+}
+.banner {
+		background: url(../images/bg_top.jpg) no-repeat  center top;
+		overflow:hidden;
+}
+.nav-top {
+	opacity: 0.80;
+	background: #515f67;
+	padding-top:40px;
+}
+ .nav-top .navbar-header  {
+	height:90px;
+	
+}
+.navbar-nav > li > a {
+    padding: 10px;
+}
+.navbar-header a {
+	font-size:30px;
+	color:#fff;
+}
+.navbar-collapse a {
+	font-size:14px;	
+	color:#fff;
+	text-transform:uppercase ;
+	padding:10px;
+}
+ .navbar-collapse ul {
+	overflow:hidden;
+}
+
+.nav > li > a:hover{
+	color:#477e98;
+  padding: 8px;
+	border:2px solid #477e98 ; 
+  background-color:transparent ;
+}
+
+.navbar-toggle {
+  position: relative;
+  float: right;
+  padding: 9px 10px;
+  margin-top: 8px;
+  margin-right: 15px;
+  margin-bottom: 8px;
+  background-color: #fff; 
+  background-image: none;
+  border: 1px solid gray; 
+  border-radius: 4px;
+}
+.navbar-toggle span {
+	background-color: #477e98;
+}
+.top  span  {
+	color: #4bcaff;
+}
+.center-text {
+	margin-top:12%;
+	text-align:center;
+		margin-bottom:32%;	
+}
+.center-text p {
+	font-size:42px;
+	opacity: 0.80;
+	background-color: #515f67;
+	display: inline-block;
+
+}
+.services {
+	color:white;
+	background-color:#4bcaff;	
+
+
+}
+	.services h2 {
+		text-transform:uppercase ;
+		margin-top:50px;
+		margin-bottom: 1px;
+		font-size:30px;
+	}
+	hr.s {
+		width:62px;
+		color:#fff;
+		margin: 0 auto 0 0;
+		border-top: 2px solid #fff;
+	}	
+	.services img {
+		width:35px;
+		margin-top:30px;
+	}	
+		.services h3 {
+		text-transform:uppercase ;
+	}
+		.services p {
+			text-align: justify;
+				margin-bottom:50px;
+	}
+.nav-midle {
+	position:relative;
+	padding-top:40px;
+	
+}
+.nav-midle a {
+	color:#69747b;
+	text-transform:uppercase ;
+}
+.p {
+		width:62px;
+		margin: 4px auto 0 0;
+		color:#69747b;
+		border-top: 2px solid #69747b;
+		padding-top:2px;
+	}	
+.portfolio-box {
+	float:left;
+	position:relative;
+}	
+.portfolio-box img {
+	width:270px;
+	height:270px;
+	margin:6px;
+	opacity: 0.40;
+	background: #979797;
+}	
+.portfolio-box span {
+	display:none;
+	font-size:50px;
+	position:absolute;
+	top:116px;
+	left:136px;
+	color:#fff;
+
+}
+.portfolio-box img:hover {
+	opacity: 0.95;
+	background: #495259;
+}
+.jast {
+	padding-top:80px;
+	background-color: #515f67;
+}
+
+.jast h2 {
+		text-transform:uppercase ;
+		margin-bottom:0;
+}
+.jast .jast-text {
+	margin-top:30px;
+
+}
+.jast .btn-link {
+	color:#353f46 ;
+	text-transform:uppercase ;
+	border: 2px solid #353f46;
+	font-weight:bold;
+	margin-bottom:30px;
+} 
+
+.jast .btn-link:hover {
+	text-decoration:none;
+		color:#ccc ;
+		border: 2px solid #ccc;
+}
+.twitter {
+		color:white;
+	background-color:#4bcaff;
+}
+.twitter h2{
+	text-transform:uppercase ;
+	margin-bottom:0;
+}
+.twitter .container {
+	margin-top:10px;
+}
+.twitter i {
+	margin-top:25px;
+}
+.twitter .text {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.text span {
+	font-weight:bolder;
+}
+.who {
+	background: url(../images/bg_who.jpg) no-repeat  center top; 
+}
+.who h2 {
+	margin-top:60px;
+	margin-bottom:0;
+	text-transform:uppercase ;
+}
+.who .text {
+	margin-top:50px;
+
+}
+.who i {
+	border:1px solid #fff;
+	padding:10px;
+	margin:5px; 
+
+}
+.who a {
+    color: #fff;
+}
+.who .wrapper {
+	margin-bottom:19%;
+	display:block;
+
+}
+
+.test {
+		color:#515f67;
+	background-color:#fff;
+}
+.test h2{
+	text-transform:uppercase ;
+	margin-bottom:0;
+}
+.test .container {
+	margin-top:10px;
+}
+.test i {
+	margin-top:25px;
+	font-size:80px;
+}
+.test .text {
+	margin-top:0;
+	margin-bottom:20px;
+}
+.test span {
+	color:#4bcaff;
+}
+
+
+
+.contact {
+	padding-top:80px;
+	background: url(../images/bg_bottom.jpg) no-repeat  center top; 
+}
+
+.contact h2 {
+		text-transform:uppercase ;
+		margin-bottom:0;
+}
+.contact .text {
+	margin-top:30px;
+
+}
+.contact .btn-link {
+	color:#fff ;
+	text-transform:uppercase ;
+	background-color: #4bcaff;
+	font-weight:bold;
+	margin-bottom:30px ;
+	padding:10px 150px;
+} 
+
+.contact .btn-link:hover {
+	text-decoration:none;
+}
+.contact input, .contact textarea  {
+	background-color:transparent ;
+	border-radius:0;
+	color:#fff;
+}
+.contact label{
+	text-transform:uppercase ;	
+	margin-top:30px;
+}
+.contact form {
+    margin:0;
+}
+.footer {
+    background-color: #353f47;
+}
+.footer li {
+    list-style-type: none;
+}
+.footer ul {
+
+}
+.footer ul  li {
+    display: inline;
+     padding-right: 5px;
+     padding-left: 5px;
+     border-right: 1px solid #fff;
+}
+
+ .footer a,  .footer p {
+     text-transform:uppercase ;
+     color: #fff;
+
+ }
+ .footer .wrapper {
+     margin: 25px 0 15px;
+ }
+.footer li:last-child {
+      border-right: none;
+
+  }

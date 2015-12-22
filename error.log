@@ -1,0 +1,430 @@
+[Tue Dec 22 14:57:37.617378 2015] [:error] [pid 5433] [client 127.0.0.1:43683] PHP Fatal error:  Call to undefined function get_post_thumbnail() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php on line 74, referer: http://test_dnepr/
+[Tue Dec 22 14:57:37.617466 2015] [:error] [pid 5433] [client 127.0.0.1:43683] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 14:57:37.617586 2015] [:error] [pid 5433] [client 127.0.0.1:43683] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 14:57:37.617612 2015] [:error] [pid 5433] [client 127.0.0.1:43683] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 14:57:37.617636 2015] [:error] [pid 5433] [client 127.0.0.1:43683] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 14:57:37.617661 2015] [:error] [pid 5433] [client 127.0.0.1:43683] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 14:57:38.924708 2015] [:error] [pid 8038] [client 127.0.0.1:43685] PHP Fatal error:  Call to undefined function get_post_thumbnail() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php on line 74, referer: http://test_dnepr/
+[Tue Dec 22 14:57:38.924758 2015] [:error] [pid 8038] [client 127.0.0.1:43685] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 14:57:38.924858 2015] [:error] [pid 8038] [client 127.0.0.1:43685] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 14:57:38.924877 2015] [:error] [pid 8038] [client 127.0.0.1:43685] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 14:57:38.924895 2015] [:error] [pid 8038] [client 127.0.0.1:43685] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 14:57:38.924911 2015] [:error] [pid 8038] [client 127.0.0.1:43685] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 14:57:39.700938 2015] [:error] [pid 9340] [client 127.0.0.1:43687] PHP Fatal error:  Call to undefined function get_post_thumbnail() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php on line 74
+[Tue Dec 22 14:57:39.701017 2015] [:error] [pid 9340] [client 127.0.0.1:43687] PHP Stack trace:
+[Tue Dec 22 14:57:39.701113 2015] [:error] [pid 9340] [client 127.0.0.1:43687] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0
+[Tue Dec 22 14:57:39.701131 2015] [:error] [pid 9340] [client 127.0.0.1:43687] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17
+[Tue Dec 22 14:57:39.701148 2015] [:error] [pid 9340] [client 127.0.0.1:43687] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16
+[Tue Dec 22 14:57:39.701165 2015] [:error] [pid 9340] [client 127.0.0.1:43687] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89
+[Tue Dec 22 14:57:40.472108 2015] [:error] [pid 9381] [client 127.0.0.1:43684] PHP Fatal error:  Call to undefined function get_post_thumbnail() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php on line 74
+[Tue Dec 22 14:57:40.472185 2015] [:error] [pid 9381] [client 127.0.0.1:43684] PHP Stack trace:
+[Tue Dec 22 14:57:40.472274 2015] [:error] [pid 9381] [client 127.0.0.1:43684] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0
+[Tue Dec 22 14:57:40.472291 2015] [:error] [pid 9381] [client 127.0.0.1:43684] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17
+[Tue Dec 22 14:57:40.472308 2015] [:error] [pid 9381] [client 127.0.0.1:43684] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16
+[Tue Dec 22 14:57:40.472324 2015] [:error] [pid 9381] [client 127.0.0.1:43684] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89
+[Tue Dec 22 15:24:52.450056 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 55, referer: http://test_dnepr/
+[Tue Dec 22 15:24:52.450147 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:24:52.450216 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:24:52.450234 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:24:52.450251 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:24:52.450268 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:24:52.450285 2015] [:error] [pid 9381] [client 127.0.0.1:44048] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071754 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071834 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071923 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071941 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071958 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071976 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.071993 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073004 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073039 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073077 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073094 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073111 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073129 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.073146 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074058 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074095 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074147 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074164 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074181 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074198 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.074215 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075105 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075140 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075174 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075213 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075233 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075250 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.075267 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076135 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076155 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076187 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076204 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076220 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076237 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.076254 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077041 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077058 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077089 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077105 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077140 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077158 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077174 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077958 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.077975 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.078005 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.078022 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.078039 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.078055 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:30:41.078072 2015] [:error] [pid 10132] [client 127.0.0.1:44146] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185369 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185455 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185490 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185515 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185543 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185569 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:32:11.185594 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.970889 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.970958 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.970986 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.971005 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.971025 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.971063 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:02.971082 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473330 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473412 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473455 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473485 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473515 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473545 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.473574 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475269 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475328 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475383 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475411 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475439 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475468 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.475496 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.476999 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.477059 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.477115 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.477143 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.477172 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.477200 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.477254 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478750 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478807 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478862 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478889 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478916 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478943 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.478971 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480518 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480581 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480636 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480663 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480690 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480718 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:05.480744 2015] [:error] [pid 9512] [client 127.0.0.1:44165] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.069919 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.069998 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070089 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070107 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070123 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070140 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070157 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070193 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070245 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070262 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070281 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070298 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070314 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070331 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.070347 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071165 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071205 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071239 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071256 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071272 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071288 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071305 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071324 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071371 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071384 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071403 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071419 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071435 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071465 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.071482 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072259 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072281 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072313 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072330 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072346 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072363 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072379 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072398 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072446 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072459 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072478 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072494 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072510 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072527 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.072543 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073323 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073342 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073373 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073390 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073420 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073437 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073454 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073473 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073520 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073533 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073552 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073568 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073585 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073601 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.073617 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074405 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074433 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074467 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074484 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074500 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074516 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074533 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074552 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074599 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074627 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074647 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074663 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074680 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074696 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.074713 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075537 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075559 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075590 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075606 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075623 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075639 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075656 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075675 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075721 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075735 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075753 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075770 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075786 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075803 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.075819 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076583 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Missing argument 1 for get_post_meta(), called in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58 and defined in /home/alex/sites/test_dnepr/wp-includes/post.php on line 1711, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076615 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076645 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076663 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076679 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076695 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076712 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076731 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   6. get_post_meta($post_id = *uninitialized*, $key = *uninitialized*, $single = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076777 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076790 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076809 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076826 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076842 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076858 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:34:17.076874 2015] [:error] [pid 10212] [client 127.0.0.1:44180] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367095 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367176 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367313 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367336 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367354 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367372 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.367390 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368379 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368405 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368440 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368457 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368474 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368490 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.368507 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369314 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369333 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369365 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369382 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369398 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369416 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.369432 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370217 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370235 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370266 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370282 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370299 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370315 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.370332 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371105 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371138 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371169 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371211 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371230 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371247 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.371263 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372056 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372073 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372104 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372121 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372137 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372154 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372170 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372944 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372961 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.372991 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.373008 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.373025 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.373041 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:39:29.373058 2015] [:error] [pid 9462] [client 127.0.0.1:44210] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.112717 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.112850 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.112953 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.112993 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.113011 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.113027 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.113044 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114049 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114098 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114138 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114155 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114172 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114189 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.114206 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115119 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115143 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115174 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115210 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115230 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115247 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.115264 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116065 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116086 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116116 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116133 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116177 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116195 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.116211 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117000 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117018 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117048 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117065 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117081 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117098 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117114 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117888 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117906 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117936 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117953 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117969 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.117986 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118002 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118788 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Warning:  Invalid argument supplied for foreach() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 58, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118806 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118836 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118853 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118869 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118886 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:40:19.118916 2015] [:error] [pid 10329] [client 127.0.0.1:44226] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210140 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP Fatal error:  Cannot use object of type WP_Term as array in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 59, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210227 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210405 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210444 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210481 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210519 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:55:22.210555 2015] [:error] [pid 9462] [client 127.0.0.1:44360] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726530 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP Fatal error:  Cannot use object of type WP_Term as array in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 59, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726603 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726697 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726715 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726733 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726751 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 15:55:36.726769 2015] [:error] [pid 10407] [client 127.0.0.1:44370] PHP   5. get_all_meta() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:29, referer: http://test_dnepr/
+[Tue Dec 22 16:13:29.384626 2015] [:error] [pid 10659] [client 127.0.0.1:44545] PHP Fatal error:  Call to undefined function get_all_meta_thml() in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php on line 52, referer: http://test_dnepr/
+[Tue Dec 22 16:13:29.384705 2015] [:error] [pid 10659] [client 127.0.0.1:44545] PHP Stack trace:, referer: http://test_dnepr/
+[Tue Dec 22 16:13:29.384773 2015] [:error] [pid 10659] [client 127.0.0.1:44545] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0, referer: http://test_dnepr/
+[Tue Dec 22 16:13:29.384791 2015] [:error] [pid 10659] [client 127.0.0.1:44545] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17, referer: http://test_dnepr/
+[Tue Dec 22 16:13:29.384809 2015] [:error] [pid 10659] [client 127.0.0.1:44545] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16, referer: http://test_dnepr/
+[Tue Dec 22 16:13:29.384826 2015] [:error] [pid 10659] [client 127.0.0.1:44545] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89, referer: http://test_dnepr/
+[Tue Dec 22 16:32:48.609097 2015] [:error] [pid 10976] [client 127.0.0.1:44610] PHP Parse error:  syntax error, unexpected '}' in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 86, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:32:48.609177 2015] [:error] [pid 10976] [client 127.0.0.1:44610] PHP Stack trace:, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:32:48.609212 2015] [:error] [pid 10976] [client 127.0.0.1:44610] PHP   1. {main}() /home/alex/sites/test_dnepr/wp-admin/admin-ajax.php:0, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:32:48.609231 2015] [:error] [pid 10976] [client 127.0.0.1:44610] PHP   2. require_once() /home/alex/sites/test_dnepr/wp-admin/admin-ajax.php:22, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:32:48.609248 2015] [:error] [pid 10976] [client 127.0.0.1:44610] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-load.php:37, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:32:48.609265 2015] [:error] [pid 10976] [client 127.0.0.1:44610] PHP   4. require_once() /home/alex/sites/test_dnepr/wp-config.php:88, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:34:48.597775 2015] [:error] [pid 10387] [client 127.0.0.1:44613] PHP Parse error:  syntax error, unexpected '}' in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 86, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:34:48.597843 2015] [:error] [pid 10387] [client 127.0.0.1:44613] PHP Stack trace:, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:34:48.597890 2015] [:error] [pid 10387] [client 127.0.0.1:44613] PHP   1. {main}() /home/alex/sites/test_dnepr/wp-admin/admin-ajax.php:0, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:34:48.597910 2015] [:error] [pid 10387] [client 127.0.0.1:44613] PHP   2. require_once() /home/alex/sites/test_dnepr/wp-admin/admin-ajax.php:22, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:34:48.597928 2015] [:error] [pid 10387] [client 127.0.0.1:44613] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-load.php:37, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 16:34:48.597945 2015] [:error] [pid 10387] [client 127.0.0.1:44613] PHP   4. require_once() /home/alex/sites/test_dnepr/wp-config.php:88, referer: http://test_dnepr/wp-admin/edit-tags.php?taxonomy=category
+[Tue Dec 22 19:55:56.984002 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 124
+[Tue Dec 22 19:55:56.997456 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP Stack trace:
+[Tue Dec 22 19:55:56.997523 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0
+[Tue Dec 22 19:55:56.997542 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17
+[Tue Dec 22 19:55:56.997559 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:12
+[Tue Dec 22 19:55:56.997576 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   4. require_once() /home/alex/sites/test_dnepr/wp-load.php:37
+[Tue Dec 22 19:55:56.997593 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   5. require_once() /home/alex/sites/test_dnepr/wp-config.php:88
+[Tue Dec 22 19:55:56.997613 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   6. do_action($tag = *uninitialized*, $arg = *uninitialized*) /home/alex/sites/test_dnepr/wp-settings.php:392
+[Tue Dec 22 19:55:56.997631 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   7. call_user_func_array(*uninitialized*, *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/plugin.php:525
+[Tue Dec 22 19:55:56.997649 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   8. albr_read_get(*uninitialized*) /home/alex/sites/test_dnepr/wp-includes/plugin.php:525
+[Tue Dec 22 19:55:56.997681 2015] [:error] [pid 13182] [client 127.0.0.1:47007] PHP   9. explode(*uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:124
+[Tue Dec 22 19:56:57.812087 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php on line 124, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812199 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP Stack trace:, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812250 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   1. {main}() /home/alex/sites/test_dnepr/wp-admin/admin-ajax.php:0, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812270 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   2. require_once() /home/alex/sites/test_dnepr/wp-admin/admin-ajax.php:22, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812288 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-load.php:37, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812306 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   4. require_once() /home/alex/sites/test_dnepr/wp-config.php:88, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812326 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   5. do_action($tag = *uninitialized*, $arg = *uninitialized*) /home/alex/sites/test_dnepr/wp-settings.php:392, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812346 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   6. call_user_func_array(*uninitialized*, *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/plugin.php:525, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812364 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   7. albr_read_get(*uninitialized*) /home/alex/sites/test_dnepr/wp-includes/plugin.php:525, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 19:56:57.812383 2015] [:error] [pid 14358] [client 127.0.0.1:47017] PHP   8. explode(*uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:124, referer: http://test_dnepr/wp-admin/options-general.php
+[Tue Dec 22 20:17:50.102143 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php on line 584
+[Tue Dec 22 20:17:50.102213 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP Stack trace:
+[Tue Dec 22 20:17:50.102238 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0
+[Tue Dec 22 20:17:50.102256 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17
+[Tue Dec 22 20:17:50.102274 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16
+[Tue Dec 22 20:17:50.102292 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89
+[Tue Dec 22 20:17:50.102310 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   5. get_portfolio_html() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:52
+[Tue Dec 22 20:17:50.102329 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   6. get_posts($args = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:98
+[Tue Dec 22 20:17:50.102349 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   7. WP_Query->query($query = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/post.php:1646
+[Tue Dec 22 20:17:50.102367 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   8. WP_Query->get_posts() /home/alex/sites/test_dnepr/wp-includes/query.php:4015
+[Tue Dec 22 20:17:50.102408 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP   9. WP_Meta_Query->get_sql($type = *uninitialized*, $primary_table = *uninitialized*, $primary_id_column = *uninitialized*, $context = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/query.php:2958
+[Tue Dec 22 20:17:50.102428 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP  10. WP_Meta_Query->get_sql_clauses() /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:334
+[Tue Dec 22 20:17:50.102447 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP  11. WP_Meta_Query->get_sql_for_query($query = *uninitialized*, $depth = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:385
+[Tue Dec 22 20:17:50.102468 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP  12. WP_Meta_Query->get_sql_for_clause($clause = *uninitialized*, $parent_query = *uninitialized*, $clause_key = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:436
+[Tue Dec 22 20:17:50.102486 2015] [:error] [pid 14525] [client 127.0.0.1:47097] PHP  13. trim(*uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:584
+[Tue Dec 22 20:18:18.597543 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php on line 584
+[Tue Dec 22 20:18:18.597616 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP Stack trace:
+[Tue Dec 22 20:18:18.597644 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0
+[Tue Dec 22 20:18:18.597661 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17
+[Tue Dec 22 20:18:18.597678 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16
+[Tue Dec 22 20:18:18.597696 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89
+[Tue Dec 22 20:18:18.597714 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   5. get_portfolio_html() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:52
+[Tue Dec 22 20:18:18.597733 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   6. get_posts($args = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:98
+[Tue Dec 22 20:18:18.597753 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   7. WP_Query->query($query = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/post.php:1646
+[Tue Dec 22 20:18:18.597772 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   8. WP_Query->get_posts() /home/alex/sites/test_dnepr/wp-includes/query.php:4015
+[Tue Dec 22 20:18:18.597794 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP   9. WP_Meta_Query->get_sql($type = *uninitialized*, $primary_table = *uninitialized*, $primary_id_column = *uninitialized*, $context = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/query.php:2958
+[Tue Dec 22 20:18:18.597813 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP  10. WP_Meta_Query->get_sql_clauses() /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:334
+[Tue Dec 22 20:18:18.597834 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP  11. WP_Meta_Query->get_sql_for_query($query = *uninitialized*, $depth = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:385
+[Tue Dec 22 20:18:18.597856 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP  12. WP_Meta_Query->get_sql_for_clause($clause = *uninitialized*, $parent_query = *uninitialized*, $clause_key = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:436
+[Tue Dec 22 20:18:18.597874 2015] [:error] [pid 13263] [client 127.0.0.1:47112] PHP  13. trim(*uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:584
+[Tue Dec 22 20:21:41.564962 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php on line 584
+[Tue Dec 22 20:21:41.565079 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP Stack trace:
+[Tue Dec 22 20:21:41.565104 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   1. {main}() /home/alex/sites/test_dnepr/index.php:0
+[Tue Dec 22 20:21:41.565121 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   2. require() /home/alex/sites/test_dnepr/index.php:17
+[Tue Dec 22 20:21:41.565139 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   3. require_once() /home/alex/sites/test_dnepr/wp-blog-header.php:16
+[Tue Dec 22 20:21:41.565157 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   4. include() /home/alex/sites/test_dnepr/wp-includes/template-loader.php:89
+[Tue Dec 22 20:21:41.565174 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   5. get_portfolio_html() /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/index.php:52
+[Tue Dec 22 20:21:41.565194 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   6. get_posts($args = *uninitialized*) /home/alex/sites/test_dnepr/wp-content/themes/test_dnepr/functions.php:98
+[Tue Dec 22 20:21:41.565214 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   7. WP_Query->query($query = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/post.php:1646
+[Tue Dec 22 20:21:41.565232 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   8. WP_Query->get_posts() /home/alex/sites/test_dnepr/wp-includes/query.php:4015
+[Tue Dec 22 20:21:41.565254 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP   9. WP_Meta_Query->get_sql($type = *uninitialized*, $primary_table = *uninitialized*, $primary_id_column = *uninitialized*, $context = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/query.php:2958
+[Tue Dec 22 20:21:41.565274 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP  10. WP_Meta_Query->get_sql_clauses() /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:334
+[Tue Dec 22 20:21:41.565294 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP  11. WP_Meta_Query->get_sql_for_query($query = *uninitialized*, $depth = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:385
+[Tue Dec 22 20:21:41.565315 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP  12. WP_Meta_Query->get_sql_for_clause($clause = *uninitialized*, $parent_query = *uninitialized*, $clause_key = *uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:436
+[Tue Dec 22 20:21:41.565334 2015] [:error] [pid 13911] [client 127.0.0.1:47123] PHP  13. trim(*uninitialized*) /home/alex/sites/test_dnepr/wp-includes/class-wp-meta-query.php:584
